@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Laurel_site.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230916215027_InitialCreate")]
+    [Migration("20230916222646_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
